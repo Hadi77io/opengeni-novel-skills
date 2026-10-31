@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
   "pluginKey": "hadi/novel-writing-arabic",
-  "version": "1.0.0",
-  "name": "كتابة الرواية العربية — الكتاب كائن حي",
-  "description": "حزمة قدرة كاملة لكتابة رواية عربية: المنسّق، قانون المشروع، 46 مهارة «الحكاية وما فيها» مدموجة، مسار الفصول، وحزم الكتابة والمراجعة. تُركّب وتُزال كوحدة واحدة.",
+  "version": "2.0.0",
+  "name": "الرواية — الكتاب كائن حي",
+  "description": "حزمة قدرة كاملة لكتابة الرواية العربية: قانون المشروع، المنسّق، و٤٧ مهارة «الحكاية وما فيها»، ومسار الفصول. ملفات الرواية فقط بلا حزم عامة ولا نسخ مكررة.",
   "category": "writing",
   "tags": [
     "novel",
     "arabic",
     "fiction",
     "narrative",
-    "openGeni"
+    "opengeni"
   ],
   "components": [
     {
@@ -24,39 +24,15 @@
       "url": "https://github.com/Hadi77io/opengeni-novel-skills/tree/main/kitab-ka-in-hay"
     },
     {
-      "key": "narrative-pack",
-      "kind": "skill",
-      "url": "https://github.com/Hadi77io/opengeni-novel-skills/tree/main/arabic-narrative-complete"
-    },
-    {
       "key": "chapter-pipeline",
       "kind": "skill",
       "url": "https://github.com/Hadi77io/opengeni-novel-skills/tree/main/novel-chapter-pipeline"
     },
     {
-      "key": "creative-writing-craft",
-      "kind": "skill",
-      "url": "https://github.com/Hadi77io/opengeni-novel-skills/tree/main/creative-writing-craft"
-    },
-    {
-      "key": "writing-principles",
-      "kind": "skill",
-      "url": "https://github.com/Hadi77io/opengeni-novel-skills/tree/main/writing-principles"
-    },
-    {
-      "key": "story-review",
-      "kind": "skill",
-      "url": "https://github.com/Hadi77io/opengeni-novel-skills/tree/main/story-review"
-    },
-    {
-      "key": "reader-sim",
-      "kind": "skill",
-      "url": "https://github.com/Hadi77io/opengeni-novel-skills/tree/main/reader-sim"
-    },
-    {
-      "key": "human-writing",
-      "kind": "skill",
-      "url": "https://github.com/Hadi77io/opengeni-novel-skills/tree/main/human-writing-pack"
+      "key": "narrative-skills-01-47",
+      "kind": "skill-set",
+      "url": "https://github.com/Hadi77io/opengeni-novel-skills/tree/main/",
+      "count": 47
     }
   ]
 }
